@@ -1,0 +1,1 @@
+.products{display:flex;flex-wrap:wrap;justify-content:center;gap:20px}.card{height:400px;width:250px;border:2px solid black;margin:10px}.card span{font-size:1.5rem}.card img{max-width:100%;border-bottom:1px solid blue;border-radius:5px}
